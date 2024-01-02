@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vPckYSiWbtrkwT16Z4r+p85HDR3KSg5Msmy8ZU4bUJI=",
+  "Source": "simple-pwa-app_backend",
+  "BasePath": "_content/simple-pwa-app_backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
